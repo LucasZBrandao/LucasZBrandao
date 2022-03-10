@@ -9,7 +9,7 @@ I've a Master's degree in Mechanical Engineering and I work as a researcher, and
   <a href="mailto:lzbrandao@hotmail.com">
     <img src="https://img.shields.io/static/v1?label=<Email>&message=<Outlook>&color=<BLUE>"/>
   </a>&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/lucas-zampirole-brandao">
+  <a href="https://www.linkedin.com/in/lucas-zampirole-brandao/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
